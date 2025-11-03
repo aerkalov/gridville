@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Gridville
 description: City builder game
 show_downloads: "false"
+logo: /assets/img/logo.png
