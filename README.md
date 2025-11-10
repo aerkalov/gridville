@@ -6,8 +6,8 @@
 
 # Screenshots
 
-[![Screenshot 01](images/thumbnails/01.jpg)](images/01.jpg)
-[![Screenshot 02](images/thumbnails/02.jpg)](images/02.jpg)
-[![Screenshot 03](images/thumbnails/03.jpg)](images/03.jpg)
-[![Screenshot 04](images/thumbnails/04.jpg)](images/04.jpg)
-[![Screenshot 05](images/thumbnails/05.jpg)](images/05.jpg)
+[![Screenshot 01](images/thumbnails/thumbnail_grid_01.jpg)](images/grid_01.jpg)
+[![Screenshot 02](images/thumbnails/thumbnail_grid_02.jpg)](images/grid_02.jpg)
+[![Screenshot 03](images/thumbnails/thumbnail_grid_03.jpg)](images/grid_03.jpg)
+[![Screenshot 04](images/thumbnails/thumbnail_grid_04.jpg)](images/grid_04.jpg)
+[![Screenshot 05](images/thumbnails/thumbnail_grid_05.jpg)](images/grid_05.jpg)
