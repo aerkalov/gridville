@@ -27,3 +27,8 @@ That's the vision, anyway. Time will tell if it all comes together into a playab
 [![Screenshot 05](images/thumbnails/thumbnail_grid_05.png)](images/grid_05.png)
 
 * Not the latest version of the game
+
+# Game
+
+Currently, the source code, native binaries, and WebAssembly (WASM) export are not available.
+
