@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* -------------------------------------------------------
+   Header image: display at the image's natural proportions
+   with no empty space above, below, or to the sides.
+------------------------------------------------------- */
+.page__hero {
+  margin-bottom: 0;   /* remove the 2em gap the theme adds below the image */
+  line-height: 0;     /* collapse the inline-baseline gap inside the container */
+}
+
+.page__hero-image {
+  display: block;     /* eliminates the inline descender gap under the image */
+  width: 100%;
+  height: auto;
+}
