@@ -36,12 +36,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aerkalov/gridville/"
+    - label: "X / Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/aerkalov/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aerkalov/gridville/"
+    - label: "X / Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/aerkalov/"
 
 defaults:
   # _posts
