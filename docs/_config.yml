@@ -31,10 +31,7 @@ plugins:
 author:
   name: "Gridville"
   #  avatar : "/assets/images/bio-photo.jpg"
-  bio: |-
-    Playful experiment in city-building—and a fun excuse to dive deep into mastering Zig Lang and the Raylib graphics library.
-
-    [Play Gridville](/gridville/play/gridville.html){:target="_blank" rel="noopener"}
+  bio: "A playful city-building game crafted in Zig with the Raylib graphics library—and a fun excuse to dive deep into both. Play it natively on your desktop, or jump straight in from your web browser."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
