@@ -3,3 +3,6 @@ main:
     url: /about/
   - title: "Screenshots"
     url: /screenshots/
+  - title: "Play Gridville"
+    url: /play/gridville.html
+    target: _blank
