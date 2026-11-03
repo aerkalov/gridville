@@ -4,8 +4,6 @@ tags:
   - ui
 ---
 
-## Zones
-
 Finally, zones are here. Nothing is happening in them yet, but you can create them, erase them, and they look nice! And yes, there will be more zones in the future.
 
 ![Zones](../assets/images/gridville_zones.png)
